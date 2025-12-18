@@ -11,3 +11,10 @@ console.log(subtract(756,234));
 
 import skills from './test.js'
 console.log(skills);
+
+import {username,bestfriend} from './test.js'
+console.log(username);
+console.log(bestfriend);
+
+import { maths,english } from './app.js';
+console.log(maths,english);
